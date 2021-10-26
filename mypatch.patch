@@ -1,0 +1,16 @@
+diff --git a/HW1/FileB.txt b/HW1/FileB.txt
+new file mode 100644
+index 0000000..78728ac
+--- /dev/null
++++ b/HW1/FileB.txt
+@@ -0,0 +1 @@
++some changes...
+\ No newline at end of file
+diff --git a/HW1/FileC.txt b/HW1/FileC.txt
+new file mode 100644
+index 0000000..5505ac4
+--- /dev/null
++++ b/HW1/FileC.txt
+@@ -0,0 +1 @@
++some other changes... not complete though...
+\ No newline at end of file
